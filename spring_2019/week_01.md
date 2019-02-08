@@ -1,24 +1,18 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
+I collaborated with my team members to get set up to develop YACS. I made some progress on the UI portion of
+the issue I have been working on (to add a term selector to YACS).
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
+I will finish integrating the UI and move on to the service to actually make the UI functional. Then I hope
+to conduct a11y testing and complete the issue.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
+I'll likely need some help properly integrating the UI with the rest of the Angular. Although I'm not entirely
+new to Angular, the YACS project is much larger than most of the things I've worked on in the past and I'm
+still learning my way around the project.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
